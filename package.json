@@ -1,0 +1,12 @@
+{
+  "name": "gcp-appengine-frontend-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rm -rf .build && mkdir .build && cp ./index.html .build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
